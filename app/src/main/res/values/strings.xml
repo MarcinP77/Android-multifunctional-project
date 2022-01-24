@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Aplikacja wielofunkcyjna</string>
+    <string name="opis">Aplikacja oferuje różne funkcjonalności, należy wybrać z poniższych</string>
+    <string name="kalkulator">Kalkulator</string>
+    <string name="strona_www">Przejdź do Google</string>
+    <string name="zmien_tapete">Zmien tapetę urządzenia</string>
+    <string name="o_autorze">O autorze</string>
+    <string name="wpisz_tekst">Wpisz tekst</string>
+    <string name="ocen_aplikacje">Oceń aplikację</string>
+    <string name="ocen_aplikacje_tekst">Ocena aplikacji</string>
+    <string name="AOA_ocen_aplikacje">Wpisz ocenę aplikacji</string>
+    <string name="AOA_ocen_przycisk">Oceń</string>
+    <string name="WP_wpisz">Wpisz tekst</string>
+    <string name="WP_przycisk">Zatwierdź</string>
+
+    <string name="pl">Piersza liczba</string>
+    <string name="dr">Druga liczba</string>
+    <string name="wy">Wynik</string>
+
+    <string name="dod">+</string>
+    <string name="ode">-</string>
+    <string name="mno">*</string>
+    <string name="dzi">:</string>
+
+</resources>

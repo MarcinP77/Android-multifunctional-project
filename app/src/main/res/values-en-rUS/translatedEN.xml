@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multifunction Application</string>
+    <string name="opis">The application offers various functionalities, please select from the following</string>
+    <string name="kalkulator">Calculator</string>
+    <string name="strona_www">Go to Google</string>
+    <string name="zmien_tapete">Change device wallpaper</string>
+    <string name="o_autorze">About the author</string>
+    <string name="wpisz_tekst">Enter text</string>
+    <string name="ocen_aplikacje">Rate the app</string>
+    <string name="ocen_aplikacje_tekst">Evaluation of the computer application</string>
+    <string name="AOA_ocen_aplikacje">Enter an app rating</string>
+    <string name="AOA_ocen_przycisk">Rate</string>
+    <string name="WP_wpisz">Enter text</string>
+    <string name="WP_przycisk">Submit</string>
+
+    <string name="pl">First number</string>
+    <string name="dr">Second number</string>
+    <string name="wy">Result</string>
+
+    <string name="dod">+</string>
+    <string name="ode">-</string>
+    <string name="mno">*</string>
+    <string name="dzi">:</string>
+</resources>

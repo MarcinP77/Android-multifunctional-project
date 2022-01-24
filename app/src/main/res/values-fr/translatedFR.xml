@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application multifonction</string>
+    <string name="opis">L application offre diverses fonctionnalités, veuillez sélectionner parmi les suivantes</string>
+    <string name="kalkulator">Calculatrice</string>
+    <string name="strona_www">Aller sur Google</string>
+    <string name="zmien_tapete">Changer le fond d écran de l appareil</string>
+    <string name="o_autorze">À propos de l auteur</string>
+    <string name="wpisz_tekst">Saisir du texte</string>
+    <string name="ocen_aplikacje">Évaluez l application</string>
+    <string name="ocen_aplikacje_tekst">Évaluation de l application informatique</string>
+    <string name="AOA_ocen_aplikacje">Entrez une note d application</string>
+    <string name="AOA_ocen_przycisk">Évaluer</string>
+    <string name="WP_wpisz">Saisir du texte</string>
+    <string name="WP_przycisk">Soumettre</string>
+
+    <string name="pl">Premier chiffre</string>
+    <string name="dr">Deuxième numéro</string>
+    <string name="wy">Résultat</string>
+
+    <string name="dod">+</string>
+    <string name="ode">-</string>
+    <string name="mno">*</string>
+    <string name="dzi">:</string>
+</resources>
